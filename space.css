@@ -1,0 +1,107 @@
+/* ==========================================================================
+   Spacing-specific utilities
+   ========================================================================== */
+
+/**
+ * Used to adjust the default spacing between components
+ * Use with great care!
+ *
+ * <type>-<location><size>
+ *
+ * A = all
+ * T = top
+ * R = right
+ * B = bottom
+ * L = left
+ * H = horizontal
+ * V = vertical
+ *
+ * n = none
+ * s = small
+ * m = medium
+ * l = large
+ */
+
+/* All */
+
+.u-paddingAn { padding: 0 !important; }
+.u-paddingAs { padding: 5px !important; }
+.u-paddingAm { padding: 10px !important; }
+.u-paddingAl { padding: 20px !important; }
+
+.u-marginAn { margin: 0 !important; }
+.u-marginAs { margin: 5px !important; }
+.u-marginAm { margin: 10px !important; }
+.u-marginAl { margin: 20px !important; }
+
+/* Vertical */
+
+.u-padding-Vn { padding-top: 0 !important; padding-bottom: 0 !important; }
+.u-padding-Vs { padding-top: 5px !important; padding-bottom: 5px !important; }
+.u-padding-Vm { padding-top: 10px !important; padding-bottom: 10px !important; }
+.u-padding-Vl { padding-top: 20px !important; padding-bottom: 20px !important; }
+
+.u-margin-Vn { margin-top: 0 !important; margin-bottom: 0 !important; }
+.u-margin-Vs { margin-top: 5px !important; margin-bottom: 5px !important; }
+.u-margin-Vm { margin-top: 10px !important; margin-bottom: 10px !important; }
+.u-margin-Vl { margin-top: 20px !important; margin-bottom: 20px !important; }
+
+/* Horizontal */
+
+.u-padding-Hn { padding-left: 0 !important; padding-right: 0 !important; }
+.u-padding-Hs { padding-left: 5px !important; padding-right: 5px !important; }
+.u-padding-Hm { padding-left: 10px !important; padding-right: 10px !important; }
+.u-padding-Hl { padding-left: 20px !important; padding-right: 20px !important; }
+
+.u-margin-Hn { margin-left: 0 !important; margin-right: 0 !important; }
+.u-margin-Hs { margin-left: 5px !important; margin-right: 5px !important; }
+.u-margin-Hm { margin-left: 10px !important; margin-right: 10px !important; }
+.u-margin-Hl { margin-left: 20px !important; margin-right: 20px !important; }
+
+/* Top */
+
+.u-padding-Tn { padding-top: 0 !important; }
+.u-padding-Ts { padding-top: 5px !important; }
+.u-padding-Tm { padding-top: 10px !important; }
+.u-padding-Tl { padding-top: 20px !important; }
+
+.u-margin-Tn { margin-top: 0 !important; }
+.u-margin-Ts { margin-top: 5px !important; }
+.u-margin-Tm { margin-top: 10px !important; }
+.u-margin-Tl { margin-top: 20px !important; }
+
+/* Bottom */
+
+.u-padding-Bn { padding-bottom: 0 !important; }
+.u-padding-Bs { padding-bottom: 5px !important; }
+.u-padding-Bm { padding-bottom: 10px !important; }
+.u-padding-Bl { padding-bottom: 20px !important; }
+
+.u-margin-Bn { margin-bottom: 0 !important; }
+.u-margin-Bs { margin-bottom: 5px !important; }
+.u-margin-Bm { margin-bottom: 10px !important; }
+.u-margin-Bl { margin-bottom: 20px !important; }
+
+/* Left */
+
+.u-padding-Ln { padding-left: 0 !important; }
+.u-padding-Ls { padding-left: 5px !important; }
+.u-padding-Lm { padding-left: 10px !important; }
+.u-padding-Ll { padding-left: 20px !important; }
+
+.u-margin-Ln { margin-left: 0 !important; }
+.u-margin-Ls { margin-left: 5px !important; }
+.u-margin-Lm { margin-left: 10px !important; }
+.u-margin-Ll { margin-left: 20px !important; }
+
+/* Right */
+
+.u-paddingRn { padding-right: 0 !important; }
+.u-paddingRs { padding-right: 5px !important; }
+.u-paddingRm { padding-right: 10px !important; }
+.u-paddingRl { padding-right: 20px !important; }
+
+.u-marginRn { margin-right: 0 !important; }
+.u-marginRs { margin-right: 5px !important; }
+.u-marginRm { margin-right: 10px !important; }
+.u-marginRl { margin-right: 20px !important; }
