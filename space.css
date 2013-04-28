@@ -6,7 +6,7 @@
  * Used to adjust the default spacing between components
  * Use with great care!
  *
- * <type>-<location><size>
+ * u-<type><direction><size>
  *
  * A = all
  * T = top
