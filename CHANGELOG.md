@@ -1,5 +1,7 @@
 === HEAD
 
+* Rename `component.json` to `bower.json`.
+
 === 0.1.1 (March 19, 2013)
 
 * Fix naming convention.
